@@ -32,7 +32,7 @@ linkedin_username: fadelidwi
 # Additional icon links
 additional_links:
 - title: CV
-  icon: images/favicon.ico
+  icon: fas fa-globe
   url: https://drive.google.com/file/d/1fEDW59RxWL6CzeqOJanz-GytfRCYQSR-/view?usp=share_link
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
