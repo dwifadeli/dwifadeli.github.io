@@ -83,21 +83,10 @@ content:
         caption: September 2021 - Present
         quote: > 
           Serving more than 125 years, Bank BRI always provides convenience and speed in responding to various customer needs, supported by excellent banking services.
-          
         description: | # this will include new lines to allow paragraphs
-          • Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports. 
-          |
-          • Maintenance infrastucture to remain any services optimally. 
-          |
-          • Create automation for house keeping server using Bash(Unix shell).
-          |
-          • Create dummy for testing BRI API product using python flask restful api & PostgreSQL
-          for primary data storage (database).
-          |
-          • Get data using a query on Kibana to compare the number of incoming transaction 
-          or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues.
-          |
-          • Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup. |
+          • Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports, maintenance infrastucture to remain any services optimally, create automation for house keeping server using Bash(Unix shell), create dummy for testing BRI API product using python flask restful api & PostgreSQL
+          for primary data storage (database), get data using a query on Kibana to compare the number of incoming transaction 
+          or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues, Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup. 
 
       - layout: left
         title: BBPPBPTH
@@ -115,7 +104,8 @@ content:
     content:
       - layout: left
         title: IPB University 
-        link: ipb.ac.id, agridation.id
+        link: ipb.ac.id |
+        link : agridation.id
         caption: 2018 - 2021
         sub_title: Computer Engineer
         quote: >
