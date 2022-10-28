@@ -116,7 +116,11 @@ content:
           Established in 1963, IPB is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the IND but also the world.
         description: | # this will include new lines to allow paragraphs
           My GPA is 3.63 of 4.00. During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Agridation* (agridation.id) taking on roles such as *Vice-President*. 
+          I spent a lot of my free time as a committee member of the *Agridation* taking on roles such as *Vice-President*. 
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-agri
+            url: agridation.id
           
   - title: Skills
     layout: text
