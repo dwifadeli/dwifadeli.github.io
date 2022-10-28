@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A talented young engineer who successful graduated from Computer Engineering - IPB University with excellent academic record 3.63 of 4.0. I'm highly adaptive to changes, has various experiences in teamwork with leadership and communication skill, fast learner and eager to learn, and a problem solver with good concept and analytical skill
-
+      A talented young engineer who successful graduated from Computer Engineering - IPB University with excellent academic record 3.63 of 4.0. I'm highly adaptive to changes, has various experiences in teamwork with leadership and communication skill, fast learner and eager to learn, and a problem solver with good concept and analytical skill
+      
   I am most skilled in: <mark>Developer</mark> and <mark>Eating Ice Cream</mark>
 
 content:
@@ -84,7 +84,7 @@ content:
         quote: > 
           Serving more than 125 years, Bank BRI always provides convenience and speed in responding to various customer needs, supported by excellent banking services.
         description: | # this will include new lines to allow paragraphs
-          Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports, maintenance infrastucture to remain any services optimally, create automation for house keeping server using Bash(Unix shell), create dummy for testing BRI API product using python flask restful api & PostgreSQL
+              Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports, maintenance infrastucture to remain any services optimally, create automation for house keeping server using Bash(Unix shell), create dummy for testing BRI API product using python flask restful api & PostgreSQL
           for primary data storage (database), get data using a query on Kibana to compare the number of incoming transaction 
           or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues, Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup. 
 
@@ -97,7 +97,7 @@ content:
         quote: > 
           Center for Research and Development of Biotechnology and Forest Plant Breeding
         description: | # this will include new lines to allow paragraphs
-          Creates and manages an IoT device to facilitate services at the BBPPBPTH library. Using ESP8266 as microcontroller and RFID reader to control the entire I/O system
+              Creates and manages an IoT device to facilitate services at the BBPPBPTH library. Using ESP8266 as microcontroller and RFID reader to control the entire I/O system
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +111,7 @@ content:
         quote: >
           Established in 1963, IPB is the one oldest higher education institution in the Indonesia, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the IND but also the world.
         description: | # this will include new lines to allow paragraphs
-          My GPA is 3.63 of 4.00. During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+              My GPA is 3.63 of 4.00. During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
           I spent a lot of my free time as a committee member of the *Agridation* taking on roles such as *Vice-President*. 
           
   - title: Skills
