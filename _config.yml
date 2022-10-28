@@ -86,17 +86,17 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           • Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports. 
-        description : |
+          |
           • Maintenance infrastucture to remain any services optimally. 
-        description : |
+          |
           • Create automation for house keeping server using Bash(Unix shell).
-        description : |
+          |
           • Create dummy for testing BRI API product using python flask restful api & PostgreSQL
           for primary data storage (database).
-        description : |
+          |
           • Get data using a query on Kibana to compare the number of incoming transaction 
           or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues.
-        description : |
+          |
           • Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup. |
 
       - layout: left
