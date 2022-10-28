@@ -85,14 +85,14 @@ content:
           Serving more than 125 years, Bank BRI always provides convenience and speed in responding to various customer needs, supported by excellent banking services.
           
         description: | # this will include new lines to allow paragraphs
-          • Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports.
-          • Maintenance infrastucture to remain any services optimally.
-          • Create automation for house keeping server using Bash(Unix shell).
-          • Create dummy for testing BRI API product using python flask restful api & PostgreSQL
-          for primary data storage (database).
-          • Get data using a query on Kibana to compare the number of incoming transaction
-          or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues.
-          • Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup.
+          • Develop an infrastucture using Apigee and Elasticsearch for transaction monitoring ensure availabilty of hourly and daily reports. |
+          • Maintenance infrastucture to remain any services optimally. |
+          • Create automation for house keeping server using Bash(Unix shell). |
+          • Create dummy for testing BRI API product using python flask restful api & PostgreSQL |
+          for primary data storage (database). |
+          • Get data using a query on Kibana to compare the number of incoming transaction 
+          or issues analytics. Handle the complaints of partners who use BRI API Product Analyze banking transaction/issue Elasticsearch, Kibana, Logstash and report to ehhe related team and get the best solutions for the issues. |
+          • Health check of main server and backup routines used for operational using Elastisearch and Logstash for healt chek and NFS for backup. |
 
       - layout: left
         title: BBPPBPTH
@@ -110,17 +110,14 @@ content:
     content:
       - layout: left
         title: IPB University 
+        link: ipb.ac.id, agridation.id
         caption: 2018 - 2021
         sub_title: Computer Engineer
         quote: >
-          Established in 1963, IPB is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the IND but also the world.
+          Established in 1963, IPB is the one oldest higher education institution in the Indonesia, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the IND but also the world.
         description: | # this will include new lines to allow paragraphs
           My GPA is 3.63 of 4.00. During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
           I spent a lot of my free time as a committee member of the *Agridation* taking on roles such as *Vice-President*. 
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-agri
-            url: agridation.id
           
   - title: Skills
     layout: text
