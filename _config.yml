@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: PT Bank Rakyat Indonesia
-        link: https://bri.co.id/
+        link: bri.co.id
         # link_text: boringcompany.com
         sub_title: IT Engineer (Api Engineer)
         caption: September 2021 - Present
@@ -90,7 +90,7 @@ content:
 
       - layout: left
         title: BBPPBPTH
-        link: https://layanan.biotifor.or.id/
+        link: layanan.biotifor.or.id
         # link_text: boringcompany.com
         sub_title: IOT Engineer 
         caption: Januari 2021 - April 2021
@@ -104,15 +104,14 @@ content:
     content:
       - layout: left
         title: IPB University 
-        link: ipb.ac.id |
-        link : agridation.id
+        link: ipb.ac.id 
         caption: 2018 - 2021
         sub_title: Computer Engineer
         quote: >
           Established in 1963, IPB is the one oldest higher education institution in the Indonesia, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the IND but also the world.
         description: | # this will include new lines to allow paragraphs
            My GPA is 3.63 of 4.00. During my time at IPB I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Agridation* taking on roles such as *Vice-President*. 
+          I spent a lot of my free time as a committee member of the Agridation *agridation.id* taking on roles such as *Vice-President*. 
           
   - title: Skills
     layout: text
